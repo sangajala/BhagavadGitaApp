@@ -1,0 +1,6 @@
+module Pods_PropertyFinder_PropertyFinderTests {
+  umbrella header "Pods-PropertyFinder-PropertyFinderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
